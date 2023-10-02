@@ -58,10 +58,15 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+#      user_groups:
+#          - Principal Investigators
+#          - Researchers
+#          - Grad Students
+#          - Administration
+#          - Visitors
+#          - Alumni
 user_groups:
-  - Pri
+  - Principal Investigators 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xu WANG is an Asscoiate Professor of Research Institute for Future Media Computing, College of Computer Science and Software Engineering, Shenzhen University, China. His research interests include video compressiong, 3D vision. He leads the Immersvie Media Lab, which develops 6DoF video technology in the Metaverse.
