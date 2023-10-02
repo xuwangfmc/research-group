@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - Qiudan Zhang
-title: Qiudan Zhang 张秋丹
+title: Qiudan Zhang
 role: Assistant Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
