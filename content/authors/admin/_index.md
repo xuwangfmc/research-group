@@ -1,7 +1,6 @@
 ---
 title: Xu WANG (王旭)
 role: Asscoiate Professor
-avatar_filename: 1629790057_图片1.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
