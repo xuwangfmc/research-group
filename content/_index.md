@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         Immersive Media Lab
-        Research Group
       image:
         filename: welcome.jpg
       text: |
