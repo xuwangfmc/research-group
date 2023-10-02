@@ -19,7 +19,7 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Shenzhen University
+      institution: City University of Hong Kong
       year: 2014
 superuser: true
 user_groups:
@@ -27,7 +27,7 @@ user_groups:
 last_name: Wang
 highlight_name: false
 first_name: Xu
-email: ""
+email: "wangxu@szu.edu.cn"
 ---
 
 Xu WANG is an Asscoiate Professor of Research Institute for Future Media Computing, College of Computer Science and Software Engineering, Shenzhen University, China. His research interests include video compressiong, 3D vision. He leads the Immersvie Media Lab, which develops 6DoF video technology in the Metaverse.
