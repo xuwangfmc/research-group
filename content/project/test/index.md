@@ -2,7 +2,7 @@
 title: Point Cloud Semantic Segmentation
 date: 2023-10-09T16:05:17.919Z
 summary: >-
-  D point cloud segmentation is the process of classifying point clouds into
+  3D point cloud segmentation is the process of classifying point clouds into
   multiple homogeneous regions, the points in the same region will have the same
   properties. The segmentation is challenging because of high redundancy, uneven
   sampling density, and lack explicit structure of point cloud data. This
