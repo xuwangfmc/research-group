@@ -5,6 +5,6 @@ draft: false
 featured: false
 image:
   filename: eyefixation.png
-  focal_point: Smart
+  focal_point: LEFT
   preview_only: false
 ---
