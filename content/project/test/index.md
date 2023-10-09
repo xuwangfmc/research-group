@@ -1,12 +1,12 @@
 ---
 title: Point Cloud Semantic Segmentation
 date: 2023-10-09T16:05:17.919Z
-summary: ""
+summary: "![](3dss.png)"
 draft: false
 featured: true
 links: []
 image:
-  filename: 3dss.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
