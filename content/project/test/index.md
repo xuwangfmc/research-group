@@ -3,7 +3,8 @@ title: Point Cloud Semantic Segmentation
 date: 2023-10-09T16:05:17.919Z
 summary: ""
 draft: false
-featured: false
+featured: true
+links: []
 image:
   filename: 3dss.png
   focal_point: Smart
