@@ -1,7 +1,7 @@
 ---
 title: Point Cloud Semantic Segmentation
 date: 2023-10-09T16:05:17.919Z
-summary: ""
+summary: O﻿n going project!
 draft: false
 featured: true
 links: []
