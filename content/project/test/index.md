@@ -9,7 +9,7 @@ draft: false
 featured: true
 links: []
 image:
-  filename: 3dss.png
+  filename: ""
   focal_point: CENTER
   preview_only: false
 ---
